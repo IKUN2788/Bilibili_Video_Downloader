@@ -1,0 +1,6 @@
+PyQt5
+yt-dlp
+requests
+Pillow
+qrcode
+imageio-ffmpeg
