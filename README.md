@@ -1,3 +1,5 @@
+<img width="872" height="834" alt="image" src="https://github.com/user-attachments/assets/8c850c7c-4864-45f3-9ccf-0314df9b1fe4" />
+
 # B站视频下载器 (基于 PyQt5 & yt-dlp)
 
 这是一个简单美观的 Bilibili 视频下载器，支持下载高清视频。
